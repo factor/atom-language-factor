@@ -7,7 +7,7 @@ You can install it through the standard Atom UI: just search for
 `language-factor` in an available package list.
 
 This package have support for both Factor and Factor inclusions in HTML code.
-Select either `Factor` or `HTML )Factor)` syntax highlighting scheme in your
+Select either `Factor` or `HTML (Factor)` syntax highlighting scheme in your
 editor tab. The corresponding scheme should be selected automatically on opening
 `.factor`, `.facts`, `.furnace` or `.fhtml` file.
 
