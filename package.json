@@ -6,7 +6,7 @@
     "factor"
   ],
   "repository": "https://github.com/factor/atom-language-factor",
-  "license": "MIT",
+  "license": "BSD",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
