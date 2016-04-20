@@ -5,7 +5,7 @@
   "keywords": [
     "factor"
   ],
-  "repository": "https://github.com/ForNeVeR/atom-language-factor",
+  "repository": "https://github.com/factor/atom-language-factor",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
