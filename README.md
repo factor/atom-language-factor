@@ -21,7 +21,7 @@ This was initially generated from the Textmate bundle:
 License
 -------
 
-This package is distributed under the terms of a [MIT License][mit-license].
+This package is distributed under the terms of a [BSD License][bsd-license].
 
 [factor]: https://factorcode.org/
-[mit-license]: https://opensource.org/licenses/MIT
+[bsd-license]: https://opensource.org/licenses/BSD
