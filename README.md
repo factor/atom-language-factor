@@ -1,15 +1,27 @@
-# atom package
+language-factor
+===============
 
-This is a syntax highlighting package for Factor.
+This is a syntax highlighting package for [Factor language][factor].
 
-You can install this by copying this folder to:
+You can install it through the standard Atom UI: just search for
+`language-factor` in an available package list.
 
-  cp -r /path/to/factor/misc/atom ~/.atom/packages/language-factor
+This package have support for both Factor and Factor inclusions in HTML code.
+Select either `Factor` or `HTML )Factor)` syntax highlighting scheme in your
+editor tab. The corresponding scheme should be selected automatically on opening
+`.factor`, `.facts`, `.furnace` or `.fhtml` file.
 
-Or symlinking it:
-
-  ln -sf /path/to/factor/misc/atom ~/.atom/packages/language-factor
+History
+-------
 
 This was initially generated from the Textmate bundle:
 
-  apm init --package atom --convert Factor.tmbundle
+    apm init --package atom --convert Factor.tmbundle
+
+License
+-------
+
+This package is distributed under the terms of a [MIT License][mit-license].
+
+[factor]: https://factorcode.org/
+[mit-license]: https://opensource.org/licenses/MIT
