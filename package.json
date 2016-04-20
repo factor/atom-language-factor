@@ -1,14 +1,14 @@
 {
-  "name": "atom",
-  "version": "0.0.0",
-  "description": "A short description of your package",
+  "name": "language-factor",
+  "version": "0.1.1-0",
+  "description": "Factor language support for Atom",
   "keywords": [
+    "factor"
   ],
-  "repository": "https://github.com/atom/atom",
+  "repository": "https://github.com/factor/atom-language-factor",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
-  "dependencies": {
-  }
+  "dependencies": {}
 }
